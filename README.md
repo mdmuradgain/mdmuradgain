@@ -1,8 +1,8 @@
 ![Web Developer](https://media.licdn.com/dms/image/D5622AQGWwEk0RwaBpg/feedshare-shrink_800/0/1705132879772?e=1707955200&v=beta&t=rYLekInjWpfFERy1e_VrepVQYti3f8LReIR4zuxIb3w)
 
 # Hi, I'm Murad Hossain
-👑 I am Web Developer
-🖊️ Love to write code
+👑 I am Web Developer <br>
+🖊️ Love to write code <br>
 🎤 Like to share my knowledge
 
 ## 🚀 About Me
