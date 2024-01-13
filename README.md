@@ -1,6 +1,7 @@
-### Hi there 👋, Hi, I'm Murad Hossain
-#### Web Developer
 ![Web Developer](https://media.licdn.com/dms/image/D5622AQGWwEk0RwaBpg/feedshare-shrink_800/0/1705132879772?e=1707955200&v=beta&t=rYLekInjWpfFERy1e_VrepVQYti3f8LReIR4zuxIb3w)
+
+# Hi, I'm Murad Hossain
+### Web Developer
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
