@@ -7,7 +7,7 @@
 
 
 ## 🚀 About Me
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
+I’m a Full Stack Web Developer. With a passion for creating flawless websites and ensuring 100% client satisfaction, I am a strategic and goal-oriented Front End Web Developer. Over the years, I have successfully delivered hundreds of websites, primarily using WordPress. However, I also enjoy working with technologies like React JS, JavaScript, and PHP. My commitment to quality work is reflected in my problem-solving skills, and I take pride in maintaining excellent communication throughout the development process. Always driven by a love for learning, I actively share my knowledge publicly, contributing to the community and tackling real-world challenges.
 
 ## 👨‍💻 Skills:
 🟩 WordPress <br>
