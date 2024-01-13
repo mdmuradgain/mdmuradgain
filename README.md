@@ -4,49 +4,7 @@
 👑 I am Web Developer <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    /* Reset some default styles */
-    body, h1, p, button {
-      margin: 0;
-      padding: 0;
-    }
-
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-    }
-
-    button {
-      padding: 10px 20px;
-      font-size: 16px;
-      font-weight: bold;
-      color: #fff;
-      background-color: #3498db;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-      transition: background-color 0.3s ease;
-    }
-
-    button:hover {
-      background-color: #2980b9;
-    }
-  </style>
-</head>
-<body>
-  <button>Click me</button>
-</body>
-</html>
+<button> Click me</button>
 
 
 ## 🚀 About Me
