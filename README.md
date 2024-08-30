@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-I’m a Full Stack Web Developer. With a passion for creating flawless websites and ensuring 100% client satisfaction, I am a strategic and goal-oriented Front End Web Developer. Over the years, I have successfully delivered hundreds of websites, primarily using WordPress. However, I also enjoy working with technologies like React JS, JavaScript, and PHP. My commitment to quality work is reflected in my problem-solving skills, and I take pride in maintaining excellent communication throughout the development process. Always driven by a love for learning, I actively share my knowledge publicly, contributing to the community and tackling real-world challenges.
+Hi my name is MD Murad Hossain. I’m a Web Developer. Being very keen on providing 100% clean-cut websites, I am a strategic, goal-oriented web developer. Anytime over the years, I have been able to commence and complete projects to do with websites especially those based on WordPress. But I also like to work with such technologies as React JS, Java Script and so on.
 
 ## 👨‍💻 Skills:
 🟩 WordPress <br>
